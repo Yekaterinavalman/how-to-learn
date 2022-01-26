@@ -1,0 +1,13 @@
+.table__cell {
+  width: 250px;
+  margin-top: 60px;
+  z-index: 1;
+}
+
+.table__cell:first-of-type {
+  margin-left: 0;
+}
+
+.table__cell:nth-child(5) {
+  margin-left: 0;
+}
