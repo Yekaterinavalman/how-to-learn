@@ -18,7 +18,7 @@
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
-@import url(../blocks/cards/_title/cards_title.css);
+@import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
