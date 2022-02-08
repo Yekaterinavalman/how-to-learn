@@ -4,4 +4,9 @@
     font-size: 18px;
     font-weight: normal;
     text-decoration: none;
-  }
+}
+
+.footer__column-link:hover {
+    transition: transform .4s ease-in;
+    opacity: 0.5;
+}
